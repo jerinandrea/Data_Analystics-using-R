@@ -3,7 +3,7 @@ library(randomForest)
 
 #Read the dataset
 getwd()
-data <- read.csv("C:/Users/Sherly/OneDrive/Documents/R/heart-disease.csv",header=TRUE)
+data <- read.csv("C:/Users/Jerin/OneDrive/Documents/R/heart-disease.csv",header=TRUE)
 
 View (data)
 
