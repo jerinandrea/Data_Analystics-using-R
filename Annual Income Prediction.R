@@ -4,7 +4,7 @@ library(dplyr)
 
 #Read the dataset----
 getwd()
-data_adult<-read.csv("C:/Users/Sherly/OneDrive/Documents/R/annual_income.csv")
+data_adult<-read.csv("C:/Users/Jerin/OneDrive/Documents/R/annual_income.csv")
 
 View(data_adult)
 
