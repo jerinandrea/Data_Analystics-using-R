@@ -1,7 +1,7 @@
 # Multiple Linear Regression 
 
 # Importing the dataset 
-dataset = read.csv('C:/Users/Sherly/OneDrive/Documents/R/Luxury_Cars.csv')
+dataset = read.csv('C:/Users/Jerin/OneDrive/Documents/R/Luxury_Cars.csv')
 View(dataset)
 
 #Is there any missing value in the dataset
